@@ -122,4 +122,5 @@ subtitle: "Grupos 47 y 88 · Universidad Carlos III de Madrid"
 | Sesión | Tema | Enlace |
 |---|---|---|
 | M1 | Presentación del curso | [Diapositivas](L1_Presentacion_Curso_ES.html) | 
+| M2 | Preguntas y teorías | [Diapositivas](L2_Preguntas_Teorías.html) | 
 
