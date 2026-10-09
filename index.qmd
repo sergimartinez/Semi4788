@@ -125,6 +125,8 @@ subtitle: "Grupos 47 y 88 · Universidad Carlos III de Madrid"
 | M2 | Preguntas y teorías | [Diapositivas](L2_Preguntas_Teorias.html) | 
 | M3 | Shoeleather y más | [Diapositivas](L3_shoeleather_experiments_ES2.html) | 
 | M4 | Contrafactuales | [Diapositivas](L4_counterfactuals_measurement_ES.html) | 
-| M5 | Métodos cualitativos 1: Entrevista y grupo focal | [Slides](L5_Quali1.html) |
+| M5 | Métodos cualitativos 1: Entrevista y grupo focal | [Diapositivas](L5_Quali1.html) |
+| M6 | Métodos cuantitativos 1: R, del t-test a la regresión | [Diapositivas](L5_Quant1.html) |
+
 
 
