@@ -69,28 +69,28 @@ subtitle: "Grupos 47 y 88 · Universidad Carlos III de Madrid"
 - Angrist, J. D., & Pischke, J. S. (2014). *Mastering'metrics: The Path from Cause to Effect*. Princeton University Press. Introducción: p. XI–XV; Cap. 2, Sección 1: p. 47–55.
 :::
 
-**L7, 26 oct.** Regresión multivariante. Regresión con R.
+**L7, 26 oct.** ¿Por qué? ¿Cómo? Métodos cualitativos II: etnografía y process tracing.
+
+::: small
+- Berenschot, W. (2010). Everyday mediation: The politics of public service delivery in Gujarat, India. *Development and Change*, 41(5), 883–905.
+- Pavone, T., & Stiansen, Ø. (2022). The shadow effect of courts: Judicial review and the politics of preemptive reform. *American Political Science Review*, 116(1), 322–336.
+:::
+
+*(festivo, 2 nov, no hay clase magistral)*
+
+**L8, 9 nov.** Regresión multivariante. Regresión con R.
 
 ::: small
 - Fearon, J. D., & Laitin, D. D. (2003). Ethnicity, Insurgency, and Civil War. *American Political Science Review*, 97(1), 75–90. [Análisis de replicación]
 - Bolet, D. (2021). Drinking alone: local socio-cultural degradation and radical right support. *Comparative Political Studies*, 54(9), 1653–1692.
 :::
 
-*(festivo, 2 nov, no hay clase magistral)*
-
-**L8, 9 nov.** Experimentos: el patrón de oro.
+**L9, 16 nov.** Experimentos: el patrón de oro.
 
 ::: small
 - Prillaman, S. A. (2023). Strength in numbers: how women's groups close India's political gender gap. *American Journal of Political Science*, 67(2), 390–410.
 - Clayton, A., O'Brien, D. Z., & Piscopo, J. M. (2019). All male panels? Representation and democratic legitimacy. *American Journal of Political Science*, 63(1), 113–129.
 - Bonus: Mousa, S. (2020). Building social cohesion between Christians and Muslims through soccer in post-ISIS Iraq. *Science*, 369(6505), 866–870.
-:::
-
-**L9, 16 nov.** ¿Por qué? ¿Cómo? Métodos cualitativos II: etnografía y process tracing.
-
-::: small
-- Berenschot, W. (2010). Everyday mediation: The politics of public service delivery in Gujarat, India. *Development and Change*, 41(5), 883–905.
-- Pavone, T., & Stiansen, Ø. (2022). The shadow effect of courts: Judicial review and the politics of preemptive reform. *American Political Science Review*, 116(1), 322–336.
 :::
 
 **L10, 23 nov.** El tiempo como alternativa: Diferencias en diferencias.
@@ -126,7 +126,7 @@ subtitle: "Grupos 47 y 88 · Universidad Carlos III de Madrid"
 | M3 | Shoeleather y más | [Diapositivas](L3_shoeleather_experiments_ES2.html) | 
 | M4 | Contrafactuales | [Diapositivas](L4_counterfactuals_measurement_ES.html) | 
 | M5 | Métodos cualitativos 1: Entrevista y grupo focal | [Diapositivas](L5_Quali1.html) |
-| M6 | Métodos cuantitativos 1: R, del t-test a la regresión | [Diapositivas](L6.html) |
+| M6 | Métodos cuantitativos 1: R, del t-test a la regresión | [Diapositivas](L6_quant1_1.html) |
 
 
 
