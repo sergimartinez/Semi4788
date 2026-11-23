@@ -130,6 +130,7 @@ subtitle: "Grupos 47 y 88 · Universidad Carlos III de Madrid"
 | M7 | Métodos cuantitativos y cualitativos 2: Regresión y métodos cualitativos | [Diapositivas](L8_ES.html) |
 | M8 | Métodos cuantitativos: Regresión y modelos con interacciones | [Diapositivas](L9_ES.html) |
 | M9 | Repaso interacciones y re-introducción a los experimentos | [Diapositivas](L10_ES.html) |
+| M10 | Experimentos de campo y naturales | [Diapositivas](L11_ES_copia.html) |
 
 
 
